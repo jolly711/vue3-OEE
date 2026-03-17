@@ -1,6 +1,6 @@
 # simple-vue3-demo
 
-一个最简单的 Vue 3 + Vite 示例项目。
+一个最简单的 Vue 3 + Vite 示例项目。   
 
 ## 安装依赖
 ```bash
